@@ -1,4 +1,4 @@
-# ```Alphabot-Api```
+# ```KannaBot-Api```
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/api-zeeoneofc/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/api-zeeoneofc?color=blue&style=flat-square"></a>
@@ -13,24 +13,24 @@
     </p>
 
 -------
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm zeeone 😇 </h1>
+<h1 align="center">Assalamualaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Nvzyy </h1>
 <p align="center">
-  <img src="https://c.top4top.io/p_2069qnvob1.jpg" /></>
+  <img src="https://i.top4top.io/p_2093yzis70.jpg" /></>
 </p>
 
-- 👼 My name is Zeeone 
-- 🗣️ I am 17 years old 
-- 🔭 I am not programmer
+-  My name is Vall 
+-  I am 17 years old 
+-  I am not programmer
 
 ## ```Connect with me```
 <p align="center">
-  <a href="https://instagram.com/zeeoneofc"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/JBGU4J2DVYEDK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/zeeoneee"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Dilihat" />
+  <a href="https://instagram.com/nvzyy_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/628886281729"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/profile.php?id=100072213413977"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/Nvzyyx"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://github.com/Nvzyx"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://youtube.com/channel/UCuML90NCUG-iT12rdLYoyAA_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=Nvzyx&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=Nvzyx&color=blue&style=flat-square&label=Profile+Dilihat" />
 
 </p>
 
@@ -39,7 +39,7 @@
 [`Click Here For Tutorial`](https://youtu.be/POjBjZx9tvY)<br>
 
 <p align="center">
-  <a href="https://youtu.be/POjBjZx9tvY"><img src="https://f.top4top.io/p_207542cfh1.jpg" />
+  <a href="https://youtu.be/POjBjZx9tvY">
 </p>
 
 
@@ -461,9 +461,10 @@ case 'covid_word':
 
 ## ```coffee ☕```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/Nvzy)
 
 ## ```Thnaks To```
 
 - [`Zahir`]()
 - [`Hads`]()
+- [`Vall`]()
